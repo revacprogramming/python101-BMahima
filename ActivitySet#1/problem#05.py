@@ -8,7 +8,7 @@ def computepay(h, r):
         pay=h*r
     else:
         s=h-40
-        pay=h*r+0.5*s*r
+        pay=40*r+1.5*s*r
     return pay
 
 p = computepay(h, r)
