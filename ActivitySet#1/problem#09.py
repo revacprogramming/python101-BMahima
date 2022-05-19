@@ -14,7 +14,7 @@ for line in fh:
 lst.sort()
 print(lst)
 
-#lists problem 8.5
+#lists  problem 8.5
 fname = input("Enter file name: ")
 if len(fname) < 1:
     fname = "mbox-short.txt"
