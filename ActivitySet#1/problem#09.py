@@ -1,4 +1,4 @@
-# List
+# Lists 
 
 fname = input("Enter file name: ")
 fh = open(fname)
@@ -10,8 +10,7 @@ for line in fh:
         if i in lst:
             continue
         else:
-            lst.append(i)
-    
+            lst.append(i)    
 lst.sort()
 print(lst)
 
