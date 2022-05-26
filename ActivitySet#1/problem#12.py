@@ -1,5 +1,6 @@
 # Regular Expressions
 # https://www.py4e.com/lessons/regex
+#if len(y)!=1: continue
 import re
 filename=("regg.txt")
 handle=open(filename)
@@ -13,7 +14,6 @@ for i in lst:
     sum=sum+int(i)
 print(sum)
 
-
 '''import re
 filename=("regg.txt")
 handle=open(filename).read()
@@ -23,7 +23,3 @@ for i in y:
   sum=sum+int(i)
 print(sum)'''
     
-
-    
-
-  #if len(y)!=1: continue
