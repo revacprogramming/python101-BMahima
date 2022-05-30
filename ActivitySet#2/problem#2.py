@@ -7,7 +7,6 @@ def output(a, b, sum):
     sum=a+b
     pass sum
 
-
 def main():
     a, b = int(input_two_numbers("enter the two numbers:"))
     sum = add(a, b)
