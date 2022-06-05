@@ -1,7 +1,7 @@
  # Using Web Services
 #https://www.py4e.com/lessons/servces
 # import urllib.request, urllib.parse, urllib.error
-# fhand=urllib.request.urlopen('http://py4e-data.dr-chuck.net/comments_1544659.html')
+#fhand=urllib.request.urlopen('http://py4e-data.dr-chuck.net/comments_1544659.html')
 # for line in fhand:
 #     words=line.decode().strip()
 #     sum=sum(int(words))
