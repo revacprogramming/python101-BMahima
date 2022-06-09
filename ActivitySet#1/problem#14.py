@@ -25,6 +25,5 @@ sum=0
 
 tags = soup('span')
 for tag in tags:
-  
     sum =sum+tag
 print(sum)
