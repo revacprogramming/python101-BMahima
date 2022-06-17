@@ -14,6 +14,5 @@ def main():
     lot = cs_to_lot(cs)
     print(lot)
 
-
 if __name__ == '__main__':
     main()
