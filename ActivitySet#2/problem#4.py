@@ -6,6 +6,7 @@ def cs_to_lot(cs):
     """convert connected string to list of strings"""
 
 
+
 def lot_to_cs(lot):
     """convert list of strings to connected string"""
 
