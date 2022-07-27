@@ -15,6 +15,7 @@ for i in lst:
 print(sum)
 
 
+
 '''import re
 filename=("regg.txt")
 handle=open(filename).read()
